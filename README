@@ -1,0 +1,5 @@
+c++调用python工程
+python3.5
+
+在main函数中，调用testAf.py脚本中的compile_proj方法，该方法
+调用shell脚本中的编译命令进行隔壁整个工程的编译
