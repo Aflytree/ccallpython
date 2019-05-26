@@ -3,3 +3,8 @@ python3.5
 
 在main函数中，调用testAf.py脚本中的compile_proj方法，该方法
 调用shell脚本中的编译命令进行隔壁整个工程的编译
+
+进入到build目录下：
+1、cmake ..
+2、make
+3、./fprint testAf compile_proj
