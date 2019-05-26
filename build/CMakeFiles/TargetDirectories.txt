@@ -1,0 +1,3 @@
+/home/afly/work/cplus_pratice/fprintf/build/CMakeFiles/edit_cache.dir
+/home/afly/work/cplus_pratice/fprintf/build/CMakeFiles/rebuild_cache.dir
+/home/afly/work/cplus_pratice/fprintf/build/CMakeFiles/fprint.dir

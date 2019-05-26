@@ -1,0 +1,9 @@
+0
+/home/afly/work/cplus_pratice/fprintf/build
+0
+/home/afly/work/cplus_pratice/fprintf_back/build
+compile fprintf_back ...
+Scanning dependencies of target fprint_back
+[ 50%] Building CXX object CMakeFiles/fprint_back.dir/src/fptf.cpp.o
+[100%] Linking CXX executable fprint_back
+[100%] Built target fprint_back

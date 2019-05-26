@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/fprint.dir/src/fptf.cpp.o  -o fprint -rdynamic -lpython3.5m 
